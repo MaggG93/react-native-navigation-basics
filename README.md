@@ -1,9 +1,13 @@
 # Screenshots
 
-![Imagen de WhatsApp 2025-05-31 a las 12 18 28_aabd28a7](https://github.com/user-attachments/assets/dd311617-8b30-409c-ad51-f18ee2220758)
-![Imagen de WhatsApp 2025-05-31 a las 12 18 28_79a1ec96](https://github.com/user-attachments/assets/c901407b-c25c-4f41-a083-07bb0459c2bf)
-![Imagen de WhatsApp 2025-05-31 a las 12 18 28_0b8c7575](https://github.com/user-attachments/assets/7ef4c11e-6141-4a06-8d68-1540a5d8dcac)
-![Imagen de WhatsApp 2025-05-31 a las 12 18 29_8ca31120](https://github.com/user-attachments/assets/e7b23be3-f334-4dd5-8404-d2a7287502db)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd311617-8b30-409c-ad51-f18ee2220758" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c901407b-c25c-4f41-a083-07bb0459c2bf" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7ef4c11e-6141-4a06-8d68-1540a5d8dcac" width="45%" />
+  <img src="https://github.com/user-attachments/assets/e7b23be3-f334-4dd5-8404-d2a7287502db" width="45%" />
+</p>
 
 # Welcome to your Expo app 👋
 
